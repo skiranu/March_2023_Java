@@ -4,6 +4,7 @@ public class Test {
         System.out.println("Hello Surya!!!");
         kiran k = new kiran();
         System.out.println("Enter a number!!!");
+        //way to read frrom console in java
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
         k.square( num);
