@@ -11,3 +11,7 @@ class kiran{
         System.out.println("The square of the given number is: "+number*number);
     }
 }
+
+class surya{
+
+}
