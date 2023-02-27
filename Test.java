@@ -8,7 +8,6 @@ public class Test {
 }
 class kiran{
     void square(int number){
-        //square method
         System.out.println("The square of the given number is: "+number*number);
     }
 }
