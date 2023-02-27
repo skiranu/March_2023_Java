@@ -1,8 +1,12 @@
+import java.util.Scanner;
 public class Test {
     public static void main(String[] args) {
         System.out.println("Hello Surya!!!");
         kiran k = new kiran();
-        k.square(40);
+        System.out.println("Enter a number!!!");
+        Scanner sc = new Scanner(System.in);
+        int num = sc.nextInt();
+        k.square( num);
     }
 }
 class kiran{
