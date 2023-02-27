@@ -21,7 +21,7 @@ class Bus extends AbstractModVehicle{
         return 222;
     }
 }
-
+// child class
 class Auto extends AbstractModVehicle{
     public int getNumberOfWheels() {
         return 3;
