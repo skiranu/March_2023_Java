@@ -7,6 +7,7 @@ public class Test {
         System.out.println("Enter a number!!!");
         //way to read from console in java
         Scanner sc = new Scanner(System.in);
+        // MAKES the input as INT
         int num = sc.nextInt();
         k.square( num);
     }
