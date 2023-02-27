@@ -2,6 +2,7 @@ import java.util.Scanner;
 public class Test {
     public static void main(String[] args) {
         System.out.println("Hello Surya!!!");
+        // initialized a square method object
         kiran k = new kiran();
         System.out.println("Enter a number!!!");
         //way to read frrom console in java
@@ -12,7 +13,6 @@ public class Test {
 }
 class kiran{
     void square(int number){
-        //square method
         System.out.println("The square of the given number is: "+number*number);
     }
 }
