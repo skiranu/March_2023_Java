@@ -1,3 +1,4 @@
+//Parent class
 abstract class AbstractModVehicle{
     abstract public int getNumberOfWheels();
     final public int getNumberOfSeats(){
