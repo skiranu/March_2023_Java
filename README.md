@@ -1,1 +1,1 @@
-# March_2023_Java
+# Test repository for Java programs and Git functionalities.
