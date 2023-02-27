@@ -5,7 +5,7 @@ public class Test {
         // initialized a square method object
         kiran k = new kiran();
         System.out.println("Enter a number!!!");
-        //way to read from console in javaaaaa
+        //way to read from console in java
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
         k.square( num);
