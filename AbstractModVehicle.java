@@ -11,7 +11,7 @@ abstract class AbstractModVehicle{
         System.out.println(b.getNumberOfSeats());
     }
 }
-
+// child class
 class Bus extends AbstractModVehicle{
     public int getNumberOfWheels() {
         return 7;
