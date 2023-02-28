@@ -10,6 +10,10 @@ public class Test {
         // MAKES the input as INT
         int num = sc.nextInt();
         k.square( num);
+
+    }
+     protected int getNumber(){
+        return 33;
     }
 }
 class kiran{
